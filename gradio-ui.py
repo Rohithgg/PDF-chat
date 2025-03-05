@@ -65,7 +65,7 @@ def asmain(file):
 # gradio interface
 with gr.Blocks() as demo:
     gr.Markdown("# PDF Summarizer and Chatbot")
-    gr.Markdown("by rohith gona (rohithgg)[https://rohithgg.github.io/rohithsresume]")
+    gr.Markdown("by rohith gona [rohithgg](https://rohithgg.github.io/rohithsresume)")
     gr.Markdown(
         "Upload a PDF file and the model will summarize it. The summarized text will help you understand the content quickly and efficiently. Simply upload your PDF file using the button below, and the model will process it to provide a concise summary.")
     gr.Markdown("- get your groq api key from [here](https://groq.com/)"
