@@ -1,0 +1,5 @@
+pdfplumber>=0.10.0
+langgraph>=0.0.15
+langchain-ollama>=0.0.1
+langchain-core>=0.1.0
+gradio>=4.0.0
