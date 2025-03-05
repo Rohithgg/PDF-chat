@@ -53,8 +53,10 @@ A Gradio-based web application that allows users to upload PDF files for summari
    - Type your question in the input box
    - Click the submit button to get a response
 
-5. To share the application temporarily, use the URL displayed in the terminal that starts with "https://".
-
+5. To share the application temporarily, write:
+   ```python
+   demo.launch(share=True). # in place of demo.launch()
+   ```
 ## How It Works
 
 The application uses:
