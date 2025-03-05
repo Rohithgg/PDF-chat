@@ -62,6 +62,8 @@ The application uses:
 - `langchain-ollama` to interact with the LLaMA 3.1 model
 - `langgraph` to create a workflow for the chatbot
 - `gradio` to create the web interface
+![image](https://github.com/user-attachments/assets/862509c0-0898-4981-b66c-1cbaabd3f984)
+
 
 ## Notes
 
