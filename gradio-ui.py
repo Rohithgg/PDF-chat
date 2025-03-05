@@ -89,4 +89,4 @@ with gr.Blocks() as demo:
                 outputs=[gr.Textbox(label="Response")]
             )
 
-demo.launch(share=True)
+demo.launch()
